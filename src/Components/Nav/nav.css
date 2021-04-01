@@ -2,15 +2,14 @@
     display: flex;
     list-style: none;
     background-color: rgb(175, 127, 238);
-    padding: 10px;
+    padding: 15px;
     border-bottom: 2px solid rgb(0, 204, 255);
 }
 .item{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 12px;
     color: rgb(202, 70, 191);
-    font-size: large;
     text-decoration: none;
-    padding: 10px;
+    
 } 
 .item:hover{
  background-color: rgb(202, 70, 191);
